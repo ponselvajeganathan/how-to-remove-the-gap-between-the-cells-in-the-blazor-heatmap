@@ -47,10 +47,6 @@ dotnet run
 
 4. Open the local application URL displayed in the terminal output.
 
-## Project Structure
-
-- `Pages/Index.razor` — contains the `SfHeatMap` implementation, `HeatMapCellSettings`, `HeatMapCellBorder` configuration, HeatMap data initialization, and SVG styling logic used to remove cell gaps.
-
 ## Support and Feedback
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
